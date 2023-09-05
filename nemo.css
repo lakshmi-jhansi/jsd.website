@@ -1,0 +1,12 @@
+.bgimg{
+    background-image: url("orange-color-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width:50vw;
+}
+.button-color{
+    color:orangered;
+    border-radius:20px;
+    margin-left: 200px;
+    
+}
